@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/sh
 
 lvm_check=0
 
